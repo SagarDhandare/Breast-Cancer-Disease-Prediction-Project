@@ -4,7 +4,6 @@
 
 • 
 
-
 ## Demo
 
 <img src="">
@@ -111,7 +110,7 @@ Here are some related projects
   
 ## Feedback
 
-If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/sagardhandare/)
 
 Please do ⭐ the repository, if you like this 😊
 
