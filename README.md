@@ -10,9 +10,27 @@
 <img src="">
 <img src="">
 
+## Dataset
+
+[Winconsin Breast Cancer Dataset](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+
+## Dataset Description
+
+[Download Description](https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names)
+
+
 ## Tech Stack
 
-Python, Machine Learning, Flask, HTML, Pycharm, Heroku
+- Python
+- Machine Learning
+- Pandas
+- Numpy
+- Scikit-learn
+- Flask
+- HTML
+- CSS
+- Pycharm
+- Heroku
 
   
 ## Running Tests
@@ -97,3 +115,4 @@ If you have any feedback, please reach out to me at https://www.linkedin.com/in/
 
 Please do ⭐ the repository, if you like this.😊
 
+Thank You ❤♥
