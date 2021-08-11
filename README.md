@@ -113,6 +113,6 @@ Here are some related projects
 
 If you have any feedback, please reach out to me at https://www.linkedin.com/in/sagardhandare/
 
-Please do ⭐ the repository, if you like this.😊
+Please do ⭐ the repository, if you like this 😊
 
-Thank You ❤♥
+Thank you ❤
