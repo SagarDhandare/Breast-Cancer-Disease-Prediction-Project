@@ -2,7 +2,7 @@
 
 #### If you want to view the deployed model, click on the following link:
 
-• 
+• https://breast-cancer-predi.herokuapp.com/
 
 ## Demo
 
