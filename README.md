@@ -43,7 +43,7 @@ To run app, run the following command
   
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](https://raw.githubusercontent.com/SagarDhandare/Breast-Cancer-Disease-Prediction-Project/main/Images/screenshot.png)
 
   
 ## Deployment
